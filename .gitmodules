@@ -18,3 +18,15 @@
 	path = RC8266Controller/RcCtl
 	url = https://github.com/TrevM309/RC8266Controller_RcCtl.git
 	branch = main
+[submodule "RC8266Device/RC8266Device_Cases"]
+	path = RC8266Device/Cases
+	url = https://github.com/TrevM309/RC8266Device_Cases.git
+	branch = main
+[submodule "RC8266Device/RC8266Device_PCB_RcDev"]
+	path = RC8266Device/PCB_RcDev
+	url = https://github.com/TrevM309/RC8266Device_PCB_RcDev.git
+	branch = main
+[submodule "RC8266Device/RC8266Device_RCDev"]
+	path = RC8266Device/RCDev
+	url = https://github.com/TrevM309/RC8266Device_RCDev.git
+	branch = main
