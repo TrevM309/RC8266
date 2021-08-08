@@ -3,6 +3,6 @@
 	url = https://github.com/TrevM309/PCB_8266prog.git
 	branch = main
 [submodule "RC8266Controller/RC8266Controller_CaseRxCtl"]
-	path = RC8266Controller/RC8266Controller_CaseRxCtl
+	path = RC8266Controller/CaseRxCtl
 	url = https://github.com/TrevM309/RC8266Controller_CaseRxCtl.git
 	branch = main
