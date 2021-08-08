@@ -10,3 +10,11 @@
 	path = RC8266Controller/PCB_RcCtl
 	url = https://github.com/TrevM309/RC8266_RCController_PCB_RcCtl.git
 	branch = main
+[submodule "RC8266Controller/RC8266Controller_PCB_RcCtl2"]
+	path = RC8266Controller/PCB_RcCtl2
+	url = https://github.com/TrevM309/RC8266Controller_PCB_RcCtl2.git
+	branch = main
+[submodule "RC8266Controller/RC8266Controller_RcCtl"]
+	path = RC8266Controller/RcCtl
+	url = https://github.com/TrevM309/RC8266Controller_RcCtl.git
+	branch = main
