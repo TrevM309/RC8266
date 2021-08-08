@@ -1,0 +1,4 @@
+[submodule "PCB_8266prog"]
+	path = PCB_8266prog
+	url = https://github.com/TrevM309/PCB_8266prog.git
+	branch = main
