@@ -319,6 +319,11 @@ New PCB for Dual Joystick
 Everything working electrically
 Fished Dual Case design
 
+Sat 18/09/2021
+Made 1 off new single joystick controller, holds charge nicely
+Create order from pcbway for 5 off single controller new PCB
+Printed single case, fits well
+Got dual case with fitting posts ready to print
 
 
 
